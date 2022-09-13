@@ -1,0 +1,7 @@
+
+
+== Dev Containers
+
+Install Dev Container for this guide:
+https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/vudayani-vmw/gs-consuming-rest[create dev container]
+
